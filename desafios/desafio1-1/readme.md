@@ -1,7 +1,5 @@
 # Desafio 1-1 do LaunchBase
 
----
-
 ## Avaliação do aluno
 
 Um dos primeiros programas que escrevi com JavaScript durante o LaunchBase da RocketSeat após as aulas de iniciação à programação com o Mayk Brito.
@@ -20,4 +18,4 @@ if (condicao1) {
 }
 ```
 
-Contudo observando a [solução do desafio](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-01/blob/codigos/01-1-aposentadoria.js), notei que meu código se fosse escrito em português diríamos que ficou muito _prolixo_, mas na programação dizemos que está _verboso_ creio eu.
+Contudo observando a [solução do desafio](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-01/blob/codigos/01-1-aposentadoria.js), notei que meu código se fosse escrito em português diríamos que ficou muito _prolixo_, mas na programação dizemos que está _verboso_ creio eu, mas não deixou de estar funcional.
